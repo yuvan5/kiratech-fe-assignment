@@ -42,7 +42,7 @@
           <td class="bold-font">{{ contact.name }}</td>
           <td class="light-font">{{ contact.gender }}</td>
           <td>{{ contact.country }}</td>
-          <td class="light-font">{{ contact.email }}</td>
+          <td class="light-font email-cell">{{ contact.email }}</td>
         </tr>
       </tbody>
     </table>
@@ -203,7 +203,7 @@ const closePopup = () => {
 }
 
 .email-cell {
-  text-align: right;
+  text-align: right !important;
 }
 
 .contact-popup {
