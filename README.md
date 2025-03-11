@@ -16,7 +16,7 @@ Before running the project, ensure you have the following installed:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/contacts-table-project.git](https://github.com/yuvan5/kiratech-fe-assignment.git)
+   git clone https://github.com/yuvan5/kiratech-fe-assignment.git
 
 ## Project Setup
 
